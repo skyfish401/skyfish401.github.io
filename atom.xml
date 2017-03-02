@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Oak</title>
+  <subtitle>很认真的做很靠谱的事</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://skyfish401.github.io/xiaosangege.github.io/"/>
+  <updated>2017-03-02T08:21:15.000Z</updated>
+  <id>https://skyfish401.github.io/xiaosangege.github.io/</id>
+  
+  <author>
+    <name>xiaoerayi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《大数据时代》笔记</title>
+    <link href="https://skyfish401.github.io/xiaosangege.github.io/2017/03/02/%E3%80%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%97%B6%E4%BB%A3%E3%80%8B%E7%AC%94%E8%AE%B0/"/>
+    <id>https://skyfish401.github.io/xiaosangege.github.io/2017/03/02/《大数据时代》笔记/</id>
+    <published>2017-03-02T08:02:24.000Z</published>
+    <updated>2017-03-02T08:21:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>前几天看了一下迈尔和库克写的《大数据时代》。在看的过程中，对大数据有了一些新的认识，于是把它整理成了这篇笔记。</p>
+<p>首先我们要认识什么是大数据。大数据是指采用所有的信息来做分析，并非单单指数据量的庞大，虽然大多数情况下的确是如此。大数据有三个核心的理念。第一是做数据分析时，我们要的是所有的数据而不是抽样数据。第二是我们对大数据的处理结果要的是效率而不是精确程度，大数据从来不追求对某一事件的精确判断，他要的是方向，是事物发展的整体趋势。第三是大数据处理需要的是“相关关系”而不是“因果关系”，也就是说大数据能让我们知道是什么而不是为什么。例如大数据会告诉我们把避孕套，口香糖放在超市门口会更容易卖出去，但他不会告诉我们为什么会这样。简而言之，大数据就是利用全部的信息来挖掘其中的相关关系，虽然有时这些关系听起来不是那么的靠谱。</p>
+<p>以前没有大数据是因为收集数据本身就是一件不容易干的事，而且也没有足够的计算能力来处理庞大的数据。然而今天不同了，随着存储设备的大幅度降价和微型传感器的广泛使用，尤其是在手机等各种智能设备的使用下，各式各样的微型传感器遍布我们的生活之中，这使的收集数据变的异常容易起来。其次是计算机的计算能力有了长足的进步，也使的在短时间内处理庞大的数据成为了可能。</p>
+<p>随着行业领域的不断划分，小数据时代的抽样处理数据会变的异常困难起来，有时候还容易得出错误的结论。例如在1936年，《文学摘要》对罗斯福和兰登谁能当选美国总统的预测，就是抽样数据不准而导致的失误。但是大数据不会，而且由于使用了所有的数据，大数据相对于抽样数据还能观察到更加细致不易察觉到的东西，这更加有利于把握事物的发展方向，从而做出一些正确的选择。</p>
+<p>但是大数据也有一些不好的地方。首先由于大数据使用的事所有的数据，那么这些数据中有一些是有效数据，有一些是无效数据，这就牺牲了结果的精确性。也就是说，大数据只能给出整体的大致情况，而在面对具体某个事物的时候，他是无法给出预测结果的。大数据以牺牲精确性换取方向性，这有点像宏观物理和量子力学的区别。</p>
+<p>其次是大数据会让我们的隐私无所遁形，使我们变的毫无秘密而言。相关实验表明，即使你在网上所有数据是匿名的，但只要将你的数据进行一定的配对处理，依旧可以把你的真实身份找出来，换一句话就是说就是在新的时代中你几乎是透明的。而更加可怕的不是个人隐私的泄漏，而是被预知的可能性。由于人可以被预知，那么个人在贷款，工作等各方面生活中必将受到各种不公平的待遇，这对于讲究平等的我们来说简直就是个灾难。</p>
+<p>最后，当数据规模到达一定程度之后，继续扩充的意义已经不大，更何况所有大数据的应用都极大的依赖于其选取的数学处理模型。而经济发展的不均衡决定了所谓的样本=总体永远不可能出现——全世界有十几亿人还处日生活开销不足2美元的贫困线以下，连登录网络的条件都不具备，我们怎么能够奢望我们收集到的数据就会是总体？所以我认为在应用层面上而言，大数据有其可用之处，但对我们如何更好的了解这个世界的真相，却毫无用处。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前几天看了一下迈尔和库克写的《大数据时代》。在看的过程中，对大数据有了一些新的认识，于是把它整理成了这篇笔记。&lt;/p&gt;
+&lt;p&gt;首先我们要认识什么是大数据。大数据是指采用所有的信息来做分析，并非单单指数据量的庞大，虽然大多数情况下的确是如此。大数据有三个核心的理念。第一是做数
+    
+    </summary>
+    
+    
+      <category term="-大数据 data notes Viktor Mayer-Schönberger" scheme="https://skyfish401.github.io/xiaosangege.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE-data-notes-Viktor-Mayer-Schonberger/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谷歌实验简介</title>
+    <link href="https://skyfish401.github.io/xiaosangege.github.io/2017/03/02/%E8%AE%A4%E8%AF%86%E8%B0%B7%E6%AD%8C%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+    <id>https://skyfish401.github.io/xiaosangege.github.io/2017/03/02/认识谷歌实验室/</id>
+    <published>2017-03-02T07:22:15.000Z</published>
+    <updated>2017-03-02T08:00:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的第一篇博文，既然是写第一篇，那就得写一些不同凡响的东西–<a href="https://www.chromeexperiments.com/" target="_blank" rel="external">谷歌实验</a>。</p>
+<p>Chrome Experiments 是Google在2009年推出的计划，它是一个创造性的网站试验的陈列柜，其中大部分的产品都是最近才开发出来的新技术，包括HTML5, Canvas, SVG, 和WebGL。所有的这些产品都是由那些来自世界各地的有才华的艺术家和程序员们创建和提交的。它向世人展示到底 HTML5 和 JavaScript 技术能创造什么美丽或新奇的网路体验。</p>
+<a id="more"></a>
+<p>下面这些是我从Chrome Experiments收集的一些网站，有兴趣的呃可以去看一下。</p>
+<blockquote>
+<p>说实话，下面这个是我收藏中最喜欢的一个网站之一，也是我见过最装逼的“相册”，希望以后有一天能把这个网站的源代码copy过来。哈哈哈～</p>
+</blockquote>
+<ul>
+<li><a href="http://www.hiroshi-yoshida.jp/imago/" target="_blank" rel="external">http://www.hiroshi-yoshida.jp/imago/</a></li>
+</ul>
+<blockquote>
+<p>这个网站绝对颠覆你对mv的认知，个人觉得应该算是现代音乐创作的最前沿吧。</p>
+</blockquote>
+<ul>
+<li><a href="http://film.livyatanim.com/film.html#" target="_blank" rel="external">http://film.livyatanim.com/film.html#</a></li>
+</ul>
+<blockquote>
+<p>这是一个父亲为他患白血病的儿子所创作的一个3D版的mv，看完满满的感动。（后来听说他儿子的病治好了）</p>
+</blockquote>
+<ul>
+<li><a href="https://throughthedark.withgoogle.com/" target="_blank" rel="external">https://throughthedark.withgoogle.com/</a></li>
+</ul>
+<blockquote>
+<p>很奇妙的一次音乐之旅，是一场视觉，听觉的盛宴。可惜看不懂德文。</p>
+</blockquote>
+<ul>
+<li><a href="http://cabbi.bo/enough-deutsch/" target="_blank" rel="external">http://cabbi.bo/enough-deutsch/</a></li>
+</ul>
+<blockquote>
+<p>无聊或者心情烦躁的的时候可以打开这个网站，听听雨的声音。</p>
+</blockquote>
+<ul>
+<li><a href="http://www.rainymood.com/" target="_blank" rel="external">http://www.rainymood.com/</a></li>
+</ul>
+<blockquote>
+<p>这是一个很简单的网页游戏，但很有趣也很好玩。（表示已经通关好多次了）</p>
+</blockquote>
+<ul>
+<li><a href="https://rotopo.com/" target="_blank" rel="external">https://rotopo.com/</a></li>
+</ul>
+<blockquote>
+<p>想感受被面食包围的恐惧吗？我想这个网站很适合你。</p>
+</blockquote>
+<ul>
+<li><a href="http://alteredqualia.com/three/examples/webgl_pasta.html" target="_blank" rel="external">http://alteredqualia.com/three/examples/webgl_pasta.html</a></li>
+</ul>
+<blockquote>
+<p>不知道你们有没有想过这样一个情景：“在夜黑风高的一个夜晚，你孤身一人在一个未知的森林里被不知名的东西一直追着，一直…”</p>
+</blockquote>
+<ul>
+<li><a href="http://oos.moxiecode.com/js_webgl/forest/index.html" target="_blank" rel="external">http://oos.moxiecode.com/js_webgl/forest/index.html</a></li>
+</ul>
+<blockquote>
+<p>想知道用电脑制作出来的“大树”是怎么样的吗，这个网站可以满足你的好奇心。</p>
+</blockquote>
+<ul>
+<li><a href="http://www.bongiovi.tw/experiments/webgl/blossom/" target="_blank" rel="external">http://www.bongiovi.tw/experiments/webgl/blossom/</a></li>
+</ul>
+<blockquote>
+<p>随便的在浏览器上画一段线段，然后他就会为你匹配出某个图片的某个部分出来，感觉蛮好玩的。</p>
+</blockquote>
+<ul>
+<li><a href="https://lines.chromeexperiments.com/" target="_blank" rel="external">https://lines.chromeexperiments.com/</a></li>
+</ul>
+<blockquote>
+<p>一只动态的3D水母。说实话，我从来没想过一只水母可以美成这样。</p>
+</blockquote>
+<ul>
+<li><a href="https://jayweeks.com/medusae/" target="_blank" rel="external">https://jayweeks.com/medusae/</a></li>
+</ul>
+<blockquote>
+<p>珍珠男孩—一个简单3D网页游戏，你可以在那里划划船，看看日落什么的,不喜欢的话还可以跳到海里面去，去看看海底的世界是怎么样的。</p>
+</blockquote>
+<ul>
+<li><a href="http://labs.gooengine.com/pearl-boy/?remote=true&amp;id=3200" target="_blank" rel="external">http://labs.gooengine.com/pearl-boy/?remote=true&amp;id=3200</a></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是我的第一篇博文，既然是写第一篇，那就得写一些不同凡响的东西–&lt;a href=&quot;https://www.chromeexperiments.com/&quot;&gt;谷歌实验&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;Chrome Experiments 是Google在2009年推出的计划，它是一个创造性的网站试验的陈列柜，其中大部分的产品都是最近才开发出来的新技术，包括HTML5, Canvas, SVG, 和WebGL。所有的这些产品都是由那些来自世界各地的有才华的艺术家和程序员们创建和提交的。它向世人展示到底 HTML5 和 JavaScript 技术能创造什么美丽或新奇的网路体验。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="-谷歌实验 chrome interesting art" scheme="https://skyfish401.github.io/xiaosangege.github.io/tags/%E8%B0%B7%E6%AD%8C%E5%AE%9E%E9%AA%8C-chrome-interesting-art/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://skyfish401.github.io/xiaosangege.github.io/2017/02/28/hello-world/"/>
+    <id>https://skyfish401.github.io/xiaosangege.github.io/2017/02/28/hello-world/</id>
+    <published>2017-02-27T16:00:00.000Z</published>
+    <updated>2017-03-02T08:00:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World是系统默认生成的第一个界面，保留下来的原因是因为它记录着这个网站的诞生时间。</p>
+<a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello World是系统默认生成的第一个界面，保留下来的原因是因为它记录着这个网站的诞生时间。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="-hello -world" scheme="https://skyfish401.github.io/xiaosangege.github.io/tags/hello-world/"/>
+    
+  </entry>
+  
+</feed>
