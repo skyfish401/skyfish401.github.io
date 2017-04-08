@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://skyfish401.github.io/xiaosangege.github.io/"/>
-  <updated>2017-04-08T12:48:40.000Z</updated>
+  <updated>2017-04-08T12:54:40.000Z</updated>
   <id>https://skyfish401.github.io/xiaosangege.github.io/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="https://skyfish401.github.io/xiaosangege.github.io/2017/04/08/xiamenlvyou/"/>
     <id>https://skyfish401.github.io/xiaosangege.github.io/2017/04/08/xiamenlvyou/</id>
     <published>2017-04-08T10:34:31.000Z</published>
-    <updated>2017-04-08T12:48:40.000Z</updated>
+    <updated>2017-04-08T12:54:40.000Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a>
-<ul>
+    <content type="html"><![CDATA[<ul>
 <li>火车日记  </li>
 </ul>
 <p>坐在去往厦门的火车上，望着窗外旋转而后消失的风景。那种体验就好像独自一人坐在街角的咖啡店里，透过玻璃，看着那些从你眼中不断流逝的各色人群，仿佛自己是在另一个平行的时空里，细细的看着这个世界发生的一切。从那些人中，自己仿佛看到了很多很重要的问题的答案，但努力的想去看清楚是那个问题的，一切的一切又变的模糊起来了。</p>
+<a id="more"></a>
 <p>大三，再次来到人生交叉路口的节点。想去工作，去赚钱，去积累经验，然后开家公司继续赚钱。也想去考研，想带着曾经幻想过的人生去体验一番，即使知道自己早已不是干那件事的料，但还是想去看看，去人类探索的无人区那里转转，即使只有短短的三年时间。<br>然而现在似乎已不能像以前那样可以静下心来，单纯的为准备某件事而学习。每天似乎都有很多很重要的事情要去干，每天似乎都很忙，忙到没时间去睡觉。但又似乎很闲，闲到每天什么事没干成。《那些年》的沈佳宜曾说“人生本来就有很多事情是徒劳无功的。”难道对于一个除了时间，就一无所有的年轻人来说，不管做什么，结局都是一样的吗？  </p>
 <p>想的太多，本来清晰的事也变得模糊起来。其实本来也说不上什么清晰，只是自己从来没有仔细思考过而已。既然如此，暂时不如就像鸵鸟一样，在暴风来临之前，把头放在埋在沙里，假装危机不存在。</p>
 <ul>
@@ -48,11 +48,10 @@
     
     <summary type="html">
     
-      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;ul&gt;
+      &lt;ul&gt;
 &lt;li&gt;火车日记  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;坐在去往厦门的火车上，望着窗外旋转而后消失的风景。那种体验就好像独自一人坐在街角的咖啡店里，透过玻璃，看着那些从你眼中不断流逝的各色人群，仿佛自己是在另一个平行的时空里，细细的看着这个
+&lt;p&gt;坐在去往厦门的火车上，望着窗外旋转而后消失的风景。那种体验就好像独自一人坐在街角的咖啡店里，透过玻璃，看着那些从你眼中不断流逝的各色人群，仿佛自己是在另一个平行的时空里，细细的看着这个世界发生的一切。从那些人中，自己仿佛看到了很多很重要的问题的答案，但努力的想去看清楚是那个问题的，一切的一切又变的模糊起来了。&lt;/p&gt;
     
     </summary>
     
@@ -119,15 +118,54 @@
   </entry>
   
   <entry>
-    <title>RSS使用教程</title>
+    <title>简单的了解一下RSS阅读器</title>
     <link href="https://skyfish401.github.io/xiaosangege.github.io/2017/03/13/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E4%BD%BF%E7%94%A8RSS/"/>
     <id>https://skyfish401.github.io/xiaosangege.github.io/2017/03/13/如何优雅的使用RSS/</id>
     <published>2017-03-13T13:01:25.000Z</published>
-    <updated>2017-03-23T07:54:56.000Z</updated>
+    <updated>2017-04-08T13:11:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="使用RSS阅读器的好处"><a href="#使用RSS阅读器的好处" class="headerlink" title="使用RSS阅读器的好处"></a>使用RSS阅读器的好处</h3><ul>
+<li>1.高效率的呈现方式</li>
+</ul>
+<a id="more"></a>
+<p>过去你浏览新闻可能需要一个一个的打开网站，还要在网站的各种板块分类中刷内容，整个重复的过程就是对于时间的极大浪费，现在，你可以在一个地方浏览所有你关注的站点的信息更新。对，有人帮你整合了所有餐厅的菜单，你只需要看这篇整合以后的菜单，就可以浏览到所有餐厅的新「菜品」，我想没有什么比这更美妙的了。</p>
+<ul>
+<li>2.更简洁的内容展现</li>
+</ul>
+<p>现在的网站，由于盈利的需要，往往在页面中充斥了太多的广告，弹框。时不时的打断你的阅读体验。但是通过 RSS 阅读器，你将只会看到最纯净的内容，简单，粗暴。一个字，爽！</p>
+<ul>
+<li>3.更明确的搜索</li>
+</ul>
+<p>「搜索」是 RSS 阅读器的最基本的功能之一，与传统的搜索引擎搜索不同，阅读器搜索将只会在你订阅的网站内容中展开。这样的好处是，能够屏蔽掉互联网上大量的无效信息。如果你关注了比较高质量的新闻源，那么通过 RSS 阅读器进行搜索显然效率更高。</p>
+<ul>
+<li>4.文章分类加标签收藏</li>
+</ul>
+<p>如果你遇到有用的网站，希望下次还能访问，你常用的操作是什么？我想大多数人是会收藏网页。但是随着你收藏的内容越来越多，简陋的收藏夹将无法满足你的整理查找的需求。但是通过 RSS 阅读器，你能够在看完某篇文章的情况下，对这片文章加标签收藏，这样同类的文章就能够整理到一起，方便下次查看。</p>
+<h3 id="Inoreader"><a href="#Inoreader" class="headerlink" title="Inoreader"></a>Inoreader</h3><p>Inoreader是我们今天要推荐的一款略微小众的 RSS 阅读器，你可以在用浏览器打开它的网页版本管理你的订阅内容，也可以下载对应的手机 App 。</p>
+<h4 id="Inoreader的优势"><a href="#Inoreader的优势" class="headerlink" title="Inoreader的优势"></a>Inoreader的优势</h4><p>既然是推荐，那么我们就不得不讲讲这款阅读器的优点了。</p>
+<ul>
+<li>1.全文阅读</li>
+</ul>
+<p>对于大多数网站，为了避免丢失流量（当你在别的地方查看该网站的内容的时候，流量是不会统计到对应的网站的）。只支持 RSS 阅读器抓起文章的摘要，什么意思？就是你只能看文章的前面几段话，想要看全文，就要点击原网站。但是Inoreader 却不同，由于整合了 Readability 服务，网页版中，你可以直接按下快捷键 W 在当前页面获取全文内容，App 中，你可以下拉文章页面从而加载全文。这是我选择使用 Inoreader 最大的原因。</p>
+<ul>
+<li>2.更新速度快</li>
+</ul>
+<p>大多数 RSS 阅读器对于网站内容的抓取都有一定的延时。但是就我使用下来，Inoreader的更新速度非常令人满意，据说在各种阅读器中，这款阅读器就更新速度可以排进前三名吧。</p>
+<ul>
+<li>3.免费丰富的第三方服务整合</li>
+</ul>
+<p>Inoreader 拥有大量的第三方服务整合。以手机 App 为例，包括最常用的印象笔记、pocket等，还能够打开苹果自带的分享接口。<br>另外，Inoreader还有大量的付费进阶功能，例如为订阅的新闻源设置新闻抓取规则，订阅推特用户的状态等，一般用户来讲用不到，我就不再这里多说了，感兴趣的小伙伴们可以自己研究一下。</p>
+]]></content>
     
     <summary type="html">
     
+      &lt;h3 id=&quot;使用RSS阅读器的好处&quot;&gt;&lt;a href=&quot;#使用RSS阅读器的好处&quot; class=&quot;headerlink&quot; title=&quot;使用RSS阅读器的好处&quot;&gt;&lt;/a&gt;使用RSS阅读器的好处&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;1.高效率的呈现方式&lt;/li&gt;
+&lt;/ul&gt;
+    
     </summary>
+    
+      <category term="-引用" scheme="https://skyfish401.github.io/xiaosangege.github.io/categories/%E5%BC%95%E7%94%A8/"/>
     
     
       <category term="-RSS -inoreader -阅读器" scheme="https://skyfish401.github.io/xiaosangege.github.io/tags/RSS-inoreader-%E9%98%85%E8%AF%BB%E5%99%A8/"/>
